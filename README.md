@@ -6,7 +6,8 @@
   - GABD is a python package that helps you to calculate Gaussian and Binomial distribution very easily. 
 ### Where to get it
 The source code is currently hosted on GitHub at: https://github.com/duengeonmasterr/gabd
-Binary installers for the latest released version are available at the Python package index and on conda.
+
+Binary installers for the latest released version are available at the [Python package index](https://pypi.org/project/gabd/).
  
 ```sh
 pip install gabd
