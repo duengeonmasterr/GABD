@@ -5,8 +5,8 @@
 ### What is it?
 Statistics is already hard enough to understasnd, let alone code them.
 This package is made with the sole purpose of making available statistical tools available in Python.
-Currently, this package has two main classes namely: [Gaussian](Docs/Gaussian/gaussianDistribution.md)
- and [Binomial](Docs/Binomial/binomialDistribution.md). Check out their docs on how to use it.
+Currently, this package has two main classes namely: Gaussian
+and Binomial. Check out their docs on how to use it.
  
 - GABD is a python package that helps you to calculate Gaussian and Binomial distribution very easily. 
  
